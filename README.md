@@ -6,6 +6,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet READM
 
 ## Installation
 Öncelikle projeyi clonelayın.
-'''
+```
 git clone https://github.com/ESametGozubenli/kodluyoruzilkrepo.git
-'''
+```
