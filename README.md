@@ -5,7 +5,25 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet READM
 
 
 ## Installation
+------------------------------------------------------------
 Öncelikle projeyi clonelayın.
 ```
 git clone https://github.com/ESametGozubenli/kodluyoruzilkrepo.git
 ```
+
+## Usage
+------------------------------------------------------------
+Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
+
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+
+```
+
+## Contributing
+-----------------------------------------------------------
+Pull requestker kabul edilir.Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+## License
